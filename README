@@ -21,12 +21,12 @@ poetry add psycopg2
 
 Poetry es una herramienta esencial para la gestión de dependencias y paquetes en proyectos Python. Sigue estos pasos para instalarlo en tu sistema:
 
-### Instalación Poetry
-#### Pip install poetry
+## Instalación Poetry
+### Pip install poetry
 
 
-### INSTALACION DE streamlit
-#poetry add streamlit
+## INSTALACION DE streamlit
+### poetry add streamlit
 
-### EJECUCION DE LA APLICACIÓN
-## sh bash/deploy_dev.sh
+## EJECUCION DE LA APLICACIÓN
+### sh bash/deploy_dev.sh
