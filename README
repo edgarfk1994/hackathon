@@ -1,0 +1,32 @@
+# Guía de Instalación
+
+Este documento proporciona instrucciones detalladas sobre cómo configurar y ejecutar el proyecto. Asegúrate de seguir cada paso para una instalación exitosa.
+
+## Requisitos Previos
+
+Antes de comenzar, necesitarás tener instalado Python y Poetry en tu sistema. Poetry es una herramienta para la gestión de dependencias y empaquetado en Python, que facilita la instalación de paquetes y la gestión de entornos virtuales.
+
+## Instalación
+
+Para instalar las dependencias necesarias para este proyecto, sigue los pasos a continuación. Asegúrate de estar en el directorio raíz del proyecto antes de comenzar.
+
+1. **FastAPI**: Un moderno framework web para construir APIs con Python 3.7+ basado en estándares como OpenAPI y JSON Schema.
+
+  ```bash
+poetry add fastapi
+poetry add sqlmodel
+poetry add psycopg2
+
+## Instalación de Poetry
+
+Poetry es una herramienta esencial para la gestión de dependencias y paquetes en proyectos Python. Sigue estos pasos para instalarlo en tu sistema:
+
+### Instalación Poetry
+#### Pip install poetry
+
+
+### INSTALACION DE streamlit
+#poetry add streamlit
+
+### EJECUCION DE LA APLICACIÓN
+## sh bash/deploy_dev.sh
